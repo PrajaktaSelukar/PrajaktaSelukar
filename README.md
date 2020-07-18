@@ -30,5 +30,5 @@
 
 <a href=https://linkedin.com/in/https://www.linkedin.com/in/prajakta-selukar97/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="https://www.linkedin.com/in/prajakta-selukar97/" height="20" width="20" /></a>
 <a href=https://fb.com/https://www.facebook.com/pselukar9/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="https://www.facebook.com/pselukar9/" height="20" width="20" /></a>
-<a href=https://instagram.com/https://www.instagram.com/prajakta_selukar/?hl=en target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="https://www.instagram.com/prajakta_selukar/?hl=en" height="20" width="20" /></a>
+<a href=https://instagram.com/https://www.instagram.com/prajakta_selukar/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="https://www.instagram.com/prajakta_selukar/?hl=en" height="20" width="20" /></a>
 </p>
