@@ -2,6 +2,13 @@
 <h3 align="center">A ML enthusiast👨🏻‍💻 and new tech explorer🤓 from India</h3>
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
 </div>  
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=https://github.com/prajaktaselukar alt=https://github.com/prajaktaselukar/> </p>
@@ -31,4 +38,4 @@
 <a href=https://linkedin.com/in/https://www.linkedin.com/in/prajakta-selukar97/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="https://www.linkedin.com/in/prajakta-selukar97/" height="20" width="20" /></a>
 <a href=https://fb.com/https://www.facebook.com/pselukar9/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="https://www.facebook.com/pselukar9/" height="20" width="20" /></a>
 <a href=https://instagram.com/https://www.instagram.com/prajakta_selukar/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="https://www.instagram.com/prajakta_selukar/?hl=en" height="20" width="20" /></a>
-</p>
+
