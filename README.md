@@ -14,6 +14,7 @@
   <img align="left" alt="Prajakta's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />
 </a> 
 
+<br/>
 
 - 🔭 I’m currently working on **A Sorting Visualizer project**
 
