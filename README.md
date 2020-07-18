@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on **developing a Deep Learning project**
 
-- 💬 Ask me about anything **I'm happy to discuss🤝**
+- 💬 Ask me about anything **I'm happy to help🤝**
 
 - 📫 How to reach me **pselukar9@gmail.com**
 
