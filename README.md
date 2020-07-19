@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Prajakta Selukar</h1>
 <h3 align="center">A ML enthusiast👨🏻‍💻 and new tech explorer🤓 from India</h3>
-
+<a
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=prajaktaselukar alt=prajaktaselukar/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=prajaktaselukar alt=prajaktaselukar/> </p> >
+</a>
 
 <a href="https://www.linkedin.com/in/prajakta-selukar97/">
-  <img align="left" alt="Prajakta's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Prajakta's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/prajakta_selukar/">
   <img align="left" alt="Prajakta's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
