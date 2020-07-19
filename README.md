@@ -16,7 +16,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on **A Sentiment Analysis project**
+- 🔭 I’m currently working on **Sentiment Analysis project**
 
 - 👯 I’m looking to collaborate on **developing a Deep Learning project**
 
