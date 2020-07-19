@@ -2,7 +2,7 @@
 <h3 align="center">A ML enthusiast👨🏻‍💻 and new tech explorer🤓 from India</h3>
 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=https://github.com/prajaktaselukar alt=https://github.com/prajaktaselukar/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=prajaktaselukar alt=prajaktaselukar/> </p>
 
 <a href="https://www.linkedin.com/in/prajakta-selukar97/">
   <img align="left" alt="Prajakta's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
