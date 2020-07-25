@@ -18,11 +18,15 @@
 
 - 🔭 I’m currently working on **Sentiment Analysis project**
 
+- 🌱 I’m currently learning **Deep Learning**
+
 - 👯 I’m looking to collaborate on **developing a Deep Learning project**
 
-- 💬 Ask me about anything **I'm happy to help🤝**
+- 💬 Ask me about anything **I'm happy to discuss🤝**
 
-- 📫 How to reach me **pselukar9@gmail.com**
+- 📫 How to reach me 
+      Email : **pselukar9@gmail.com**
+      LinkedIn : **https://www.linkedin.com/in/prajakta-selukar97/**
 
 - ⚡ Fun fact **We can grab a coffee☕️ while discussing Marvel movies🤓**
 
