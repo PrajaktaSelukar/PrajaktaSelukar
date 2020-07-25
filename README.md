@@ -25,8 +25,8 @@
 - 💬 Ask me about anything **I'm happy to discuss🤝**
 
 - 📫 How to reach me 
-      Email : **pselukar9@gmail.com**
-      LinkedIn : **https://www.linkedin.com/in/prajakta-selukar97/**
+     - Email : **pselukar9@gmail.com**
+     - LinkedIn : **https://www.linkedin.com/in/prajakta-selukar97/**
 
 - ⚡ Fun fact **We can grab a coffee☕️ while discussing Marvel movies🤓**
 
