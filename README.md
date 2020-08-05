@@ -36,6 +36,7 @@ I am pursuing Computer Science M.Tech degree from MNNIT Allahabad. I am looking 
   <img align="left" alt="Prajakta's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />
 </a> 
 
+<br/>
 
 **Languages and Tools:**  
 
