@@ -6,8 +6,6 @@ I am pursuing Computer Science M.Tech degree from MNNIT Allahabad. I am looking 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=prajaktaselukar alt=prajaktaselukar/> </p> 
 
-<br/>
-
 - 🔭 I’m currently working on **Sentiment Analysis project**
 
 - 🌱 I’m currently learning **Deep Learning**
