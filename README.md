@@ -24,16 +24,6 @@ I am pursuing Computer Science M.Tech degree from MNNIT Allahabad. I am looking 
 
 **Connections:**  
 
-<a href="https://www.linkedin.com/in/prajakta-selukar97/">
-  <img align="left" alt="Prajakta's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/prajakta_selukar/">
-  <img align="left" alt="Prajakta's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/pselukar9/">
-  <img align="left" alt="Prajakta's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />
-</a> 
-
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PrajaktaSelukar/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prajakta-selukar97/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/prajakta_selukar/)
