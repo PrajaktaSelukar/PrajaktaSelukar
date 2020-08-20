@@ -34,6 +34,13 @@ I am pursuing Computer Science M.Tech degree from MNNIT Allahabad. I am looking 
   <img align="left" alt="Prajakta's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />
 </a> 
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PrajaktaSelukar/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prajakta-selukar97/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/prajakta_selukar/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pselukar9@gmail.com)
+
+&nbsp;
+
 <br/>
 
 **Languages and Tools:**  
