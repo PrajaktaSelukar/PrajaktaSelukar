@@ -15,7 +15,7 @@ I am currently working as a Software engineer in Brane enterprises in Hyderabad.
 - 💬 Ask me about anything **I'm happy to discuss🤝**
 
 - 📫 How to reach me 
-     - Email : **selukarprajkata2@gmail.com**
+     - Email : **selukarprajakta2@gmail.com**
      - LinkedIn : **https://www.linkedin.com/in/prajakta-selukar97/**
 
 - ⚡ Fun fact **We can grab a coffee☕️ while discussing Marvel movies🤓**
