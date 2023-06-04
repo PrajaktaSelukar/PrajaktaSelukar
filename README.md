@@ -1,21 +1,21 @@
 <h1 align="center">Hi Visitor👋, I'm Prajakta Selukar</h1>
-<h3 align="center">A ML enthusiast👨🏻‍💻 and new tech explorer🤓 from India</h3>
+<h3 align="center">A Web Developer enthusiast👨🏻‍💻 and new tech explorer🤓 from India</h3>
 
-I am pursuing Computer Science M.Tech degree from MNNIT Allahabad. I am looking for the opportunities from where I can keep myself up-to-date with latest technologies and contribute to the best of my ability. I love what Github started doing for students and so much effort they are putting into it by adding cool and awesome features.
+I am currently working as a Software engineer in Brane enterprises in Hyderabad. I pursued Computer Science M.Tech degree from MNNIT Allahabad. I am looking for the opportunities from where I can keep myself up-to-date with latest technologies and contribute to the best of my ability. I love what Github started doing for students and so much effort they are putting into it by adding cool and awesome features.
 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=prajaktaselukar alt=prajaktaselukar/> </p> 
 
-- 🔭 I’m currently working on **Sorting Visualizer project**
+- 🔭 I worked on **Sorting Visualizer project**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Web Development** in depth.
 
-- 👯 I’m looking to collaborate on **developing a Deep Learning project**
+- 👯 I’m looking to collaborate on **developing a Web Development project**
 
 - 💬 Ask me about anything **I'm happy to discuss🤝**
 
 - 📫 How to reach me 
-     - Email : **pselukar9@gmail.com**
+     - Email : **selukarprajkata2@gmail.com**
      - LinkedIn : **https://www.linkedin.com/in/prajakta-selukar97/**
 
 - ⚡ Fun fact **We can grab a coffee☕️ while discussing Marvel movies🤓**
@@ -29,7 +29,7 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PrajaktaSelukar/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prajakta-selukar97/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/prajakta_selukar/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pselukar9@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:selukarprajakta2@gmail.com)
 
 ## Languages and Tools:
 
