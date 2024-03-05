@@ -1,7 +1,7 @@
 <h1 align="center">Hi Visitor👋, I'm Prajakta Selukar</h1>
 <h3 align="center">A Web Developer enthusiast👨🏻‍💻 and new tech explorer🤓 from India</h3>
 
-I am currently working as a Software engineer in Brane enterprises in Hyderabad. I pursued Computer Science M.Tech degree from MNNIT Allahabad. I am looking for the opportunities from where I can keep myself up-to-date with latest technologies and contribute to the best of my ability. I love what Github started doing for students and so much effort they are putting into it by adding cool and awesome features.
+I am currently working as a Software engineer in Brane enterprises in Hyderabad. I pursued Computer Science M.Tech degree from MNNIT Allahabad. I am looking for the opportunities from where I can keep myself up-to-date with latest technologies and contribute to the best of my ability.
 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=prajaktaselukar alt=prajaktaselukar/> </p> 
